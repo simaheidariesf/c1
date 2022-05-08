@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wwijvY7u9/Y+UE69E2hbF3QJ1fpVnEby7CNkkS6+uACgusxe1RwhZAP6uHWeEUmp+FOxdeR5tnHU1/N/cH/wIQ==",
+  "dgSpecHash": "+FL0PAK9S4JwlHFPytsdYurRHqsgnO7eeVeuGq4TMvmIABfHtRTwoVfBw7UY78UDbbRnko02zVkZiyDp+7W8iA==",
   "success": true,
-  "projectFilePath": "D:\\c1-final\\C1System.Core\\C1System.Core.csproj",
+  "projectFilePath": "D:\\c1-final\\c1\\C1System.Core\\C1System.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ali heidari\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ali heidari\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
